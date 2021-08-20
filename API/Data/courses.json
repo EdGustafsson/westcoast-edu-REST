@@ -1,0 +1,17 @@
+[
+    {
+      "CourseName": "Frontend",
+      "CourseNumber": 1,
+      "Retired": false
+    },
+    {
+      "CourseName": "Backend",
+      "CourseNumber": 2,
+      "Retired": false
+    },
+    {
+      "CourseName": "UX Design",
+      "CourseNumber": 3,
+      "Retired": false
+    }
+  ]
